@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyDevicePhotoActivity!</string>
+    <string name="app_name">Android实现获取本机中所有图片</string>
+
+</resources>
